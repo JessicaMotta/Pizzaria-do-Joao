@@ -14,7 +14,8 @@ Esse projeto consiste em uma Pizzaria ficticia(Pizzaria do João) onde os client
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80103910/183264708-c1cccd24-ab31-4bc9-a91f-acfe12c2e23c.png" width="750" height="450">
 </div>
-✨[Clique aqui para visualizar o vídeo de funcionamento](https://youtu.be/yXJgWEqSrAY)✨
+
+✨ [Clique aqui para visualizar o vídeo de funcionamento](https://www.youtube.com/watch?v=yXJgWEqSrAY) ✨
 
 Espero que tenha gostado! 📩 Caso queira entrar em contato comigo, acesse meu [Linkedin](https://www.linkedin.com/in/jessica-mota-bispo/) ou Gmail
 
