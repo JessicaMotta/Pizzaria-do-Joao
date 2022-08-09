@@ -10,7 +10,7 @@ Esse projeto consiste em uma Pizzaria ficticia(Pizzaria do João) onde os client
 
 
 <br>
-<p>🔸Abaixo, é a dashboard para gerenciar os pedidos, ode é possivel acompanhar e alterar o status do pedido realizado:</p><br>
+<p>🔸Abaixo, é a dashboard para gerenciar os pedidos, onde é possivel acompanhar e alterar o status do pedido realizado:</p><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80103910/183264708-c1cccd24-ab31-4bc9-a91f-acfe12c2e23c.png" width="800" height="450">
 </div>
